@@ -275,7 +275,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 **ARUN-GR05**
 
 - GitHub: [@ARUN-GR05](https://github.com/ARUN-GR05)
-- Email: [Your Email]
+- Email: arunragunathangr@gmail.com
 
 ---
 
